@@ -9,7 +9,7 @@ GameOn Frontend est l'interface utilisateur de l'application GameOn, développé
 ### Prérequis
 - [Node.js](https://nodejs.org/) (version recommandée : `18.x.x`)
 - [Npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
-- Un backend fonctionnel ([GameOn Backend](https://github.com/CharlesBrouillier-gameon/gameon-backend/blob/main/README.md))
+- Un backend fonctionnel ([GameOn Backend](https://github.com/CharlesBrouillier/gameon-backend))
 
 ### Installation
 ```sh
